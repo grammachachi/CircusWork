@@ -14,12 +14,9 @@ There's even an easy copy button for you to use
 [And then replace this stuff]
 ```
 
-Each Item below is its own expandable Section.
+---
 
-
-<details>
-
-<summary>Item 1 - What is the Circus</summary>
+### Item 1 - What is the Circus
 
 Without looking at everyone else's answer (too much) describe what you think of as "The Circus" as you view it.
 * Be as thorough as possible, and as specific as you want to be
@@ -29,11 +26,10 @@ Without looking at everyone else's answer (too much) describe what you think of 
 ## What is the Circus?
 [answer here]
 ```
-</details>
-<details>
 
-<summary>Item 2 - Questions about the people</summary>
+---
 
+### Item 2 - Questions about the people
 Ask yourself these three questions for a set of people (try to get 5, but no limit)
 * You might be surprised in how confident you feel about each one
 * Some of them are clearly "So impossible that my life would be different" or similar, but try to really spell it out
@@ -74,11 +70,9 @@ I suppose existing, for without the Circus, she wouldn't be here
 On one hand, easy answer is "the delete key" but if Negative is ever not around, things are really different than they are right now (or we found a hilarious "win or go home" match type)
 ```
 
-</details>
+---
 
-<details>
-
-<summary>Item 3 - The initial review</summary>
+### Item 3 - The initial review
 
 After you attempt the questions for a few people you might feel like you need to go re-check something, because something is off.
 
@@ -87,5 +81,3 @@ If you work on a few more, you might feel a few ideas click
 What this may eventually lead to is your thoughts becoming crystallized around the question of "**What is the Circus?**" from Item 1.
 
 There's no wrong answer if you keep thinking
-</details>
-
